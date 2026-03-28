@@ -3,7 +3,7 @@
 SDK_VERSION: str = "0.1.0"
 USER_AGENT: str = f"n1filter-python/{SDK_VERSION}"
 
-DEFAULT_BASE_URL: str = "https://api.n1filter.com"
+DEFAULT_BASE_URL: str = "https://n1-filter.digital"
 DEFAULT_TIMEOUT: float = 30.0
 DOWNLOAD_TIMEOUT: float = 120.0
 DEFAULT_POLL_INTERVAL: float = 2.0
