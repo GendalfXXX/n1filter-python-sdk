@@ -11,6 +11,7 @@ class ImagePreset(str, Enum):
     """Available presets for image generation."""
 
     UNDRESS = "undress"
+    NURSE_COSTUME = "nurse_costume"
     SHIBARI_HARNESS = "shibari_harness"
     BDSM_SINGLE = "bdsm_single"
     COWGIRL = "cowgirl"
