@@ -2,8 +2,6 @@
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![PyPI version](https://img.shields.io/pypi/v/n1filter.svg)](https://pypi.org/project/n1filter/)
-
 Official Python client for the **N1Filter AI Generation API**. Generate AI images and videos with a simple, type-safe interface.
 
 ## Features
@@ -20,7 +18,7 @@ Official Python client for the **N1Filter AI Generation API**. Generate AI image
 ## Installation
 
 ```bash
-pip install n1filter
+pip install git+https://github.com/GendalfXXX/n1filter-python-sdk.git
 ```
 
 ## Quick Start
