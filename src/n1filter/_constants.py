@@ -1,6 +1,6 @@
 """Internal constants for the N1Filter SDK."""
 
-SDK_VERSION: str = "0.1.0"
+SDK_VERSION: str = "0.1.1"
 USER_AGENT: str = f"n1filter-python/{SDK_VERSION}"
 
 DEFAULT_BASE_URL: str = "https://n1-filter.digital"
